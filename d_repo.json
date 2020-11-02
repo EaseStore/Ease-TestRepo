@@ -1,8 +1,7 @@
 {
   name: "DStore Testing Repository",
   apps: [
-    "hello1",
-    "hello2",
-    "hello3"
+    "helloworld",
+    "uninstalltest"
   ]
 }
