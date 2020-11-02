@@ -1,0 +1,6 @@
+{
+  name: "Hello World",
+  author: "Driftini",
+  version: "1.0",
+  installer: "hwcopy.js",
+}
