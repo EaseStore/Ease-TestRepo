@@ -1,2 +1,2 @@
-# DStore-TestRepo
-testing dstore's repo parsing blah blah
+# Ease Testing Repository
+Made to aid Ease's development
