@@ -1,7 +1,9 @@
 {
-  name: "DStore Testing Repository",
-  apps: [
+  "name": "DStore Testing Repository",
+  "apps": [
     "helloworld",
-    "uninstalltest"
+    "externaltest",
+    "uninstalltest",
+    "tawm"
   ]
 }
